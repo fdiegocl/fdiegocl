@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Phyton e RPA**
 
-- 💬 Me pergunte sobre **Excel e SQL**
+- 💬 Me pergunte sobre **Power BI, Excel e SQL**
 
 - 📫 Você me acha através do e-mail **fdiegocl@gmail.com**
 
