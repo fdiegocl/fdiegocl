@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Eu sou Diego Carvalho</h1>
 <h3 align="center">Apaixonado por Desenvolvimento e Análise de Dados</h3>
 
-- 🌱 Atualmente estou aprendendo **Phyton e RPA**
+- 🌱 Atualmente estou aprendendo **Databricks e Phyton**
 
-- 💬 Me pergunte sobre **Power BI, Excel e SQL**
+- 💬 Me pergunte sobre **Excel, Power BI, DAX, SQL e RPA**
 
 - 📫 Você me acha através do e-mail **fdiegocl@gmail.com**
 
